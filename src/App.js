@@ -18,6 +18,7 @@ function App() {
     <Router>
       <div className="app">
         <Header />
+        {/* header nav bar */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Checkout" element={<Checkout />} />
