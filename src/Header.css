@@ -46,16 +46,16 @@
 
 }
 .header_optionLineOne{
-    font-size: 10px;
+    font-size: 12px;
 }
 .header_optionLineTwo{
-    font-size: 13px;
-    font-weight:800px;
+    font-size: 15px;
+    font-weight:900px;
 }
 .header_optionBasket{
     color: white;
-    height: 24px;
-    padding: 0px 10px;
+    height: 26px;
+    padding: 0px 20px;
     display: flex;
     align-content: center;
 }
